@@ -105,6 +105,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignLeft="@+id/imageView"
         android:layout_alignStart="@+id/imageView"
+        android:layout_marginRight="85dp"
         android:id="@+id/linearLayout"
        >
 
